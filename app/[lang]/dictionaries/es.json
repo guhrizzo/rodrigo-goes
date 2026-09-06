@@ -1,0 +1,80 @@
+{
+  "meta": {
+    "title": "Rodrigo Góes — Nutrición, Deporte y Entretenimiento",
+    "description": "El canal oficial de Rodrigo Góes: nutrición, deporte, ciencia y humor sin rodeos. Videos nuevos cada semana."
+  },
+  "nav": { "content": "Contenido", "natural": "¿Natural o Fake Natty?", "about": "Acerca" },
+  "poster": { "badge1": "Videos nuevos", "badge2": "cada semana", "tag": "Nutrición, Deporte y Entretenimiento" },
+  "intro": {
+    "eyebrow": "Nutricionista · Atleta · Creador",
+    "h1": ["Natural.", "Ciencia.", "Humor."],
+    "lede": "El mundo del culturismo sin rodeos — información, provocación y una dosis de Rodrigo Góes.",
+    "watch": "Ver en YouTube",
+    "know": "Conocer a Rodrigo"
+  },
+  "stats": {
+    "kicker": "La dimensión de la conversación",
+    "items": [
+      { "value": "1.7M", "label": "Suscriptores en YouTube" },
+      { "value": "430M", "label": "Visualizaciones" },
+      { "value": "2M", "label": "Seguidores en las redes" },
+      { "value": "1.000", "label": "Videos publicados" }
+    ]
+  },
+  "videos": {
+    "kicker": "El contenido del que todos hablan",
+    "title": ["Últimos", "videos."],
+    "all": "Ver todos los videos",
+    "watch": "Ver",
+    "items": [
+      { "category": "¿Natural o Fake Natty?", "title": "El físico que nadie logra explicar" },
+      { "category": "Nutrición", "title": "Creatina: lo que realmente importa" },
+      { "category": "Culturismo", "title": "La verdad sobre construir músculo" }
+    ]
+  },
+  "feature": {
+    "kicker": "La sección que se volvió referencia",
+    "title": ["Natural", "or", "Fake Natty?"],
+    "text": "Rodrigo analiza físicos, cuestiona historias y separa la información del mito en el universo del culturismo.",
+    "cta": "Conoce la sección"
+  },
+  "about": {
+    "kicker": "Mucho más que memes",
+    "title": ["El cuerpo es", "ciencia."],
+    "lead": "Rodrigo Góes es nutricionista, atleta de culturismo natural y creador de contenido.",
+    "text": "Su trabajo combina ciencia, experiencia práctica y humor para hablar de nutrición, culturismo y los riesgos relacionados con el uso de esteroides. El resultado es un contenido que informa, provoca y hace que millones de personas presten atención.",
+    "link": "Conoce mi historia"
+  },
+  "library": {
+    "kicker": "Aprende con Rodrigo",
+    "title": ["Una biblioteca", "sin bullshit."],
+    "explore": "Explorar contenidos",
+    "items": [
+      { "title": "Nutrición", "desc": "Alimentación, dieta y composición corporal." },
+      { "title": "Culturismo", "desc": "Entrenamiento, físico y construcción muscular." },
+      { "title": "Mitos", "desc": "Qué es verdad y qué es bullshit." },
+      { "title": "Naturalidad", "desc": "Natty versus Fake Natty." },
+      { "title": "Salud", "desc": "Información para quien se toma el cuerpo en serio." }
+    ]
+  },
+  "articles": {
+    "kicker": "Del archivo",
+    "title": ["Contenido", "reciente."],
+    "read": "Leer artículo",
+    "items": [
+      "¿La creatina realmente funciona?",
+      "¿Cómo saber si alguien es natural?",
+      "¿Cuánta proteína necesitas realmente?"
+    ]
+  },
+  "contact": {
+    "kicker": "Alianzas",
+    "title": ["¿Tu marca quiere", "hablar con", "millones?"],
+    "cta": "Hablar conmigo"
+  },
+  "footer": {
+    "tagline": "Nutrición, Deporte y Entretenimiento.",
+    "contact": "Contacto / Alianzas",
+    "rights": "© 2026 Rodrigo Góes"
+  }
+}

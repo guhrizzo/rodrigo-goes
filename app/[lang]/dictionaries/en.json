@@ -1,0 +1,80 @@
+{
+  "meta": {
+    "title": "Rodrigo Góes — Nutrition, Sport & Entertainment",
+    "description": "The official channel of Rodrigo Góes: nutrition, sport, science and humor with no fluff. New videos every week."
+  },
+  "nav": { "content": "Content", "natural": "Natural or Fake Natty?", "about": "About" },
+  "poster": { "badge1": "New videos", "badge2": "every week", "tag": "Nutrition, Sport & Entertainment" },
+  "intro": {
+    "eyebrow": "Nutritionist · Athlete · Creator",
+    "h1": ["Natural.", "Science.", "Humor."],
+    "lede": "The world of bodybuilding with no nonsense — information, provocation and a dose of Rodrigo Góes.",
+    "watch": "Watch on YouTube",
+    "know": "Meet Rodrigo"
+  },
+  "stats": {
+    "kicker": "The scale of the conversation",
+    "items": [
+      { "value": "1.7M", "label": "YouTube subscribers" },
+      { "value": "430M", "label": "Views" },
+      { "value": "2M", "label": "Followers across socials" },
+      { "value": "1,000", "label": "Videos published" }
+    ]
+  },
+  "videos": {
+    "kicker": "The content everyone's talking about",
+    "title": ["Latest", "videos."],
+    "all": "See all videos",
+    "watch": "Watch",
+    "items": [
+      { "category": "Natural or Fake Natty?", "title": "The physique nobody can explain" },
+      { "category": "Nutrition", "title": "Creatine: what really matters" },
+      { "category": "Bodybuilding", "title": "The truth about building muscle" }
+    ]
+  },
+  "feature": {
+    "kicker": "The series that became a reference",
+    "title": ["Natural", "or", "Fake Natty?"],
+    "text": "Rodrigo breaks down physiques, questions the stories and separates fact from myth in the world of bodybuilding.",
+    "cta": "Explore the series"
+  },
+  "about": {
+    "kicker": "Far beyond the memes",
+    "title": ["The body is", "science."],
+    "lead": "Rodrigo Góes is a nutritionist, natural bodybuilding athlete and content creator.",
+    "text": "His work combines science, hands-on experience and humor to talk about nutrition, bodybuilding and the risks tied to steroid use. The result is content that informs, provokes and makes millions of people pay attention.",
+    "link": "Read my story"
+  },
+  "library": {
+    "kicker": "Learn with Rodrigo",
+    "title": ["A library", "with no bullshit."],
+    "explore": "Explore content",
+    "items": [
+      { "title": "Nutrition", "desc": "Food, diet and body composition." },
+      { "title": "Bodybuilding", "desc": "Training, physique and muscle building." },
+      { "title": "Myths", "desc": "What's true and what's bullshit." },
+      { "title": "Naturalness", "desc": "Natty versus Fake Natty." },
+      { "title": "Health", "desc": "Information for people who take their body seriously." }
+    ]
+  },
+  "articles": {
+    "kicker": "From the archive",
+    "title": ["Recent", "content."],
+    "read": "Read article",
+    "items": [
+      "Does creatine really work?",
+      "How to tell if someone is natural?",
+      "How much protein do you really need?"
+    ]
+  },
+  "contact": {
+    "kicker": "Partnerships",
+    "title": ["Does your brand want", "to talk to", "millions?"],
+    "cta": "Get in touch"
+  },
+  "footer": {
+    "tagline": "Nutrition, Sport & Entertainment.",
+    "contact": "Contact / Partnerships",
+    "rights": "© 2026 Rodrigo Góes"
+  }
+}
